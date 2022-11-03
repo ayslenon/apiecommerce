@@ -1,0 +1,1 @@
+web: gunicorn api-ecommerce-teste.wsgi --log-file -
